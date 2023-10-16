@@ -7,3 +7,4 @@ b = 10
 a+b
 var1 = 0
 var1 = input("Enter an integer\n")
+var2 = 3
